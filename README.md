@@ -5,7 +5,7 @@
 
 > A smart movie recommendation system that suggests films based on your preferences using machine learning algorithms.
 
-## 🚀 **[Try Live Demo →](https://simplemovierecommender.streamlit.app)**
+## 🚀 **[Try Live Demo →](https://movie-reccomendation-system-djg9yfhyxezca4jmurghau.streamlit.app/)**
 
 ![App Preview](https://via.placeholder.com/800x400/ff6b6b/ffffff?text=Movie+Recommender+Preview)
 
